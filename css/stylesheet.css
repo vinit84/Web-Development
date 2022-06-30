@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    margin:0px;
+    padding: 0px;
+    font-family: poppins;
+    
+}
+*{
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.image img{
+    width: 300px;
+    height:300px;
+    border-radius: 20%;
+}
+.position {
+    margin-left: 350px;
+    margin-right: auto;
+    margin-top: 230px;
+    width: 50%;
+  }
+
+.CD{
+    color: #ffffff;
+    margin-right: 0%;
+    margin-left: 70px;
+    margin-top: -40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.CM{
+    color: #ffffff;
+    margin-right: 36%;
+    margin-left: 10px;
+    margin-top: -15px;
+    font-family:sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.IF{
+    color: #ffffff;
+    margin-right: 0%;
+    margin-left: 45%;
+    margin-top: -50px;
+    font-family:sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.HP{
+    text-align: center;
+    margin-top: -30%;
+    margin-left: 3%;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif; 
+
+
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  height: 100%;
+  background-color: black;
+  color: #fff;
+  text-transform: uppercase;
+}
